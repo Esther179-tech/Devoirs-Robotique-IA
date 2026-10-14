@@ -1,22 +1,25 @@
 # Devoir 4 — Classificateur d'images simple
 
 ## 1. Objectif du projet
-Créer un modèle d'intelligence artificielle capable de reconnaître et de distinguer deux ou trois catégories d'objets à partir d'images prises avec une webcam.
+Créer un modèle d'intelligence artificielle capable de reconnaître deux catégories d'objets à partir d'images : un stylo et un téléphone.
 
 ## 2. Outils utilisés
 - Plateforme : Google Teachable Machine
 - Type de projet : Image Project
 - Matériel : ordinateur et webcam
-- Classes : deux ou trois catégories d'objets à définir
+- Classes : Stylo et Téléphone
 
 ## 3. Fonctionnement du projet
-Des images sont collectées pour chaque classe. Le modèle est entraîné à partir de ces exemples, puis testé avec de nouvelles images pour vérifier sa capacité à reconnaître les objets.
+Des images ont été collectées à l'aide de la webcam pour les classes Stylo et Téléphone. Le modèle a ensuite été entraîné avec ces exemples afin d'apprendre à distinguer les deux catégories.
+
+Après l'entraînement, le modèle a été testé avec la webcam pour vérifier sa capacité à reconnaître les objets présentés.
 
 ## 4. Résultats obtenus
-À compléter après l'entraînement et les tests du modèle.
+Le modèle a été entraîné et testé. Les captures d'écran des étapes d'entraînement et des tests sont disponibles dans le dossier `captures/`.
 
 ## 5. Captures d'écran
-Les captures des classes, de l'entraînement et des tests seront ajoutées dans le dossier `captures/`.
+- `Modèle training1.png`
+- `Modèle training2.png`
 
 ## 6. Lien du projet
-À compléter si un lien ou un modèle exporté est disponible.
+Ajouter ici le lien du projet Teachable Machine, si disponible.
