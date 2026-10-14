@@ -1,22 +1,28 @@
 # Devoir 5 — Classificateur de sons
 
 ## 1. Objectif du projet
-Entraîner un modèle d'intelligence artificielle capable de reconnaître deux ou trois catégories de sons à partir du microphone.
+Créer un modèle d'intelligence artificielle capable de reconnaître différentes catégories de sons à partir du microphone.
 
 ## 2. Outils utilisés
 - Plateforme : Google Teachable Machine
 - Type de projet : Audio Project
 - Matériel : ordinateur et microphone
-- Classes sonores : à préciser selon les sons utilisés
+- Classes utilisées :
+  - Bruit de fond
+  - Clap
+  - Libération conditionnelle
 
 ## 3. Fonctionnement du projet
-Des exemples sonores sont enregistrés pour chaque classe. Le modèle est entraîné à partir de ces exemples, puis testé avec de nouveaux sons pour vérifier sa capacité à distinguer les catégories.
+Des exemples audio ont été enregistrés pour chacune des trois classes. Le modèle a ensuite été entraîné à partir de ces exemples afin d'apprendre à distinguer les catégories sonores.
+
+Après l'entraînement, le modèle a été testé avec le microphone pour observer les catégories prédites.
 
 ## 4. Résultats obtenus
-À compléter après l'entraînement et les tests du modèle.
+Le modèle a été entraîné et testé. Les captures d'écran de l'entraînement et du modèle sont disponibles dans le dossier `captures/`.
 
 ## 5. Captures d'écran
-Les captures des classes, de l'entraînement et des tests seront ajoutées dans le dossier `captures/`.
+- `Modèle Training_VOICE.png`
+- `Modèle Training_VOICE2.png`
 
 ## 6. Lien du projet
-Ajouter ici le lien du projet Teachable Machine, si disponible.
+Ajouter ici le lien du projet Teachable Machine, s'il est disponible.
