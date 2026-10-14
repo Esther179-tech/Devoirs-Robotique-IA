@@ -21,5 +21,4 @@ Le modèle a été entraîné et testé. Les captures d'écran des étapes d'ent
 - `Modèle training1.png`
 - `Modèle training2.png`
 
-## 6. Lien du projet
-Ajouter ici le lien du projet Teachable Machine, si disponible.
+
