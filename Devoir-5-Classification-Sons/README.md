@@ -24,5 +24,3 @@ Le modèle a été entraîné et testé. Les captures d'écran de l'entraînemen
 - `Modèle Training_VOICE.png`
 - `Modèle Training_VOICE2.png`
 
-## 6. Lien du projet
-Ajouter ici le lien du projet Teachable Machine, s'il est disponible.
