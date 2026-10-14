@@ -1,25 +1,49 @@
-# Devoir 6 — Robot à décision intelligente
+Devoir 6 — Robot à décision intelligente
 
-## 1. Objectif du projet
-Créer un système intelligent qui prend automatiquement une décision selon la valeur mesurée par un capteur.
+1. Objectif du projet
 
-## 2. Outils et composants utilisés
-- Plateforme : Wokwi
-- Carte : ESP32
-- Capteur : à préciser selon le circuit réalisé
-- Environnement : programmation Arduino
+L'objectif de ce projet est de concevoir et de simuler un système intelligent capable de prendre automatiquement une décision en fonction des valeurs mesurées par un capteur.
 
-## 3. Fonctionnement du projet
-Le capteur mesure une valeur dans l'environnement. L'ESP32 compare cette valeur à un seuil défini dans le programme et déclenche une action en fonction du résultat.
+2. Outils et composants utilisés
 
-## 4. Résultats obtenus
-À compléter à partir des tests réellement effectués dans la simulation.
+Plateforme de simulation : Wokwi
 
-## 5. Captures d'écran
-Les captures du circuit, du code et des tests seront ajoutées dans le dossier `captures/`.
+Carte électronique : ESP32
 
-## 6. Code source
-Le code du projet sera ajouté dans ce dossier.
+Capteur : capteur utilisé dans le circuit
 
-## 7. Lien du projet
+Environnement de programmation : Arduino IDE intégré à Wokwi
+
+Langage de programmation : C++ (Arduino)
+
+3. Principe de fonctionnement
+
+Le système mesure une valeur à l'aide du capteur connecté à l'ESP32. Le programme compare ensuite cette valeur à un seuil prédéfini.
+
+Selon la valeur mesurée, l'ESP32 exécute une action correspondante. Cette logique permet au système de réagir automatiquement à son environnement sans intervention manuelle à chaque mesure.
+
+4. Programme et logique de décision
+
+Le programme est enregistré dans le fichier sketch.ino.
+
+Il contient la configuration du capteur, la lecture des mesures, la comparaison avec le seuil et les instructions permettant de déclencher l'action prévue.
+
+5. Tests et résultats obtenus
+
+Le système a été réalisé et testé sur Wokwi. Les résultats observés pendant les tests permettent de vérifier le comportement du système selon les valeurs mesurées par le capteur.
+
+Les captures d'écran du circuit et des tests sont disponibles dans le dossier captures/.
+
+6. Code source
+
+Le code source du projet est disponible dans le fichier :
+
+sketch.ino
+
+7. Captures d'écran
+
+Les captures du circuit ESP32 et des tests sont disponibles dans le dossier :
+
+captures/
+## 8. Lien du projet
 Simulation Wokwi : https://wokwi.com/projects/477721015694684161
