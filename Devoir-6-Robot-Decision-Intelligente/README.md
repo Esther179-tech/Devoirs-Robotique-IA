@@ -22,4 +22,4 @@ Les captures du circuit, du code et des tests seront ajoutées dans le dossier `
 Le code du projet sera ajouté dans ce dossier.
 
 ## 7. Lien du projet
-Ajouter ici le lien du projet Wokwi, s'il est disponible.
+Simulation Wokwi : https://wokwi.com/projects/477721015694684161
