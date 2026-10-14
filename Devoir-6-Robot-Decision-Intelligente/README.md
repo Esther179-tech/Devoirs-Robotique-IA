@@ -8,7 +8,7 @@ L'objectif de ce projet est de concevoir et de simuler un système intelligent c
 
 - **Plateforme de simulation :** Wokwi
 - **Carte électronique :** ESP32
-- **Capteur :** capteur utilisé dans le circuit
+- **Capteur :** capteur de distance ultrasonique HC-SR04
 - **Environnement de programmation :** Arduino IDE intégré à Wokwi
 - **Langage de programmation :** C++ (Arduino)
 
