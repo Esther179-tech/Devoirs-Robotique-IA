@@ -44,6 +44,5 @@ Les captures du circuit ESP32 et des tests sont disponibles dans le dossier :
 
 ## 8. Lien vers la simulation
 
-[Ouvrir le projet sur Wokwi](COLLER_ICI_LE_LIEN_WOKWI)
+[Ouvrir le projet sur Wokwi]https://wokwi.com/projects/477721015694684161
 
- https://wokwi.com/projects/477721015694684161
